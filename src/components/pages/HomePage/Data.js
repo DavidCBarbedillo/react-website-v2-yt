@@ -50,7 +50,7 @@ export const homeObjOne = {
       'We designed a content exhibition platform with a participatory socially inclusive financial model. Fostering a dynamic marketplace for film collectors and creators where ownership and transactionality mints entertainment in to valuable assets. Join the web3 film makers revolution.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: 'images/svg-11.svg',
+    img: 'images/svg-16.svg',
     alt: 'Vault'
   };
   

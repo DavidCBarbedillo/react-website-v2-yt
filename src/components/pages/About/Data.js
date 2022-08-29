@@ -2,13 +2,13 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'VIEW OUR PRODUCTS',
+    topLine: '',
     headline: 'About',
     description:
       'NewFilmTech is a decentralized autonomous organization. Content provided by the platform is hosted via IPFS in a decentralized manner, and our applications are built on top of layer 2 Polygon Ethereum sidechain. All transactions are low cost and generating film tokens from the catalog is completely free. Become a member of the projects DAO and subscribe to the latest news, earn token rewards, NFTs, and much more!',
     buttonLabel: 'Play Now',
     imgStart: '',
-    img: 'images/svg-11.svg',
+    img: 'images/svg-15.svg',
     alt: 'Credit Card'
   };
   

@@ -1,15 +1,16 @@
 import React from 'react';
 import HeroSection from '../../HeroSection';
+import HeroSectionB from '../../HeroSectionB';
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
 import Pricing from '../../Pricing';
 
-function SignUp() {
+function About() {
   return (
     <>
-      <HeroSection {...homeObjOne} />
-
+      <HeroSectionB {...homeObjOne} />
+      
     </>
   );
 }
 
-export default SignUp;
+export default About;
